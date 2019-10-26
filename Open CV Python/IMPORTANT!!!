@@ -1,0 +1,4 @@
+These scripts best work on python version 3.6.3
+any later version the facail recognition will not work
+also diasable pylint 
+ 
